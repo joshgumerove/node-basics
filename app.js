@@ -48,3 +48,5 @@ server.listen(3200); // server should stay up and running
 // os
 
 // buffer is a construct that holds chunks and allows us to work with them before they are done
+// thread --> process in operating system
+// working with files -- often a task that takes longer
